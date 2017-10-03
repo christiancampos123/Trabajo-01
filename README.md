@@ -4,6 +4,6 @@
 
 Letra en **negrita** o en ___cursiva___
 
-<span style="color:blue">color azul</span>
+<font color="green"> Texto en verde </font>
 
 [Enlace a mi primer trabajo de github](https://github.com/christiancampos123/Trabajo-01)
